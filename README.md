@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haydenkoerner
 - 👀 I’m interested in trucks and cars
-- 🌱 I’m currently learning drama
-- 💞️ I’m looking to collaborate on trucks
+- 🌱 I’m currently learning CyberSecurity
+- 💞️ I’m looking to collaborate on Cybersecurity
 - 📫 How to reach me 2701552@westsiderebels.net
 
 <!---
